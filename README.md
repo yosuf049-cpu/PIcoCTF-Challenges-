@@ -38,19 +38,14 @@
 | 32 | Vault-Door-Training | Reverse Engineering |
 | 33 | Keygenme-py | Reverse Engineering |
 | 34 | Buffer Overflow 0 | Binary Exploitation |
-
-## CyLab Academy
-
-| # | Challenge | Category |
-|---:|---|---|
-| 1 | Trust but Verify | AI Security |
-| 2 | Perceptron Train Classifier 1 | AI Foundations |
-| 3 | Perceptron Train Classifier 2 | AI Foundations |
-| 4 | Perceptron Train Classifier 3 | AI Foundations |
-| 5 | Perceptron Train XOR | AI Foundations |
-| 6 | Perceptron Train XNOR | AI Foundations |
-| 7 | Perceptron Train Hole... | AI Foundations |
-| 8 | Perceptron Train 3-Bit... | AI Foundations |
+| 35 | Trust but Verify | AI Security |
+| 36 | Perceptron Train Classifier 1 | AI Foundations |
+| 37 | Perceptron Train Classifier 2 | AI Foundations |
+| 38 | Perceptron Train Classifier 3 | AI Foundations |
+| 39 | Perceptron Train XOR | AI Foundations |
+| 40 | Perceptron Train XNOR | AI Foundations |
+| 41 | Perceptron Train Hole... | AI Foundations |
+| 42 | Perceptron Train 3-Bit... | AI Foundations |
 
 ---
 
